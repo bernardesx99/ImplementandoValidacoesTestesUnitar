@@ -38,7 +38,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Implementando validações de testes unitários com C#](https://web.dio.me/lab/implementando-validacoes-de-testes-unitarios-com-c/learning/08e26d4b-8d03-494e-85fe-27fd6de174c9)[Materiais de apoio](https://web.dio.me/lab/implementando-validacoes-de-testes-unitarios-com-c/learning/700a8379-3a1f-4aea-ad47-11edf1e7a758)
+- [Implementando validações de testes unitários com C#](https://web.dio.me/lab/implementando-validacoes-de-testes-unitarios-com-c/learning/08e26d4b-8d03-494e-85fe-27fd6de174c9)
+- [Materiais de apoio](https://web.dio.me/lab/implementando-validacoes-de-testes-unitarios-com-c/learning/700a8379-3a1f-4aea-ad47-11edf1e7a758)
 
 
 
